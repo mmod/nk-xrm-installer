@@ -3,7 +3,7 @@
 # __author__ = "Richard B Winters"
 # __copyright__ = "Copyright 2011-2015, Massively Modified, Inc."
 # __credits__ = ["Richard B Winters"]
-# __license__ = "Apache V2.0"
+# __license__ = "Apache-2.0"
 # __maintainer__ = "Richard B Winters"
 # __email__ = "support@mmogp.com"
 # __status__ = "Production"
