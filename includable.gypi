@@ -8,6 +8,6 @@
         'archive_destination%':'./',
         'extracted_destination%':'<(module_root_dir)/',
         'package_destination%':'<(module_root_dir)/../../',
-		'ignorable_files%':[ '.project', '.gitignore' ]
+        'ignorable_files%':[ '.project', '.gitignore' ]
     }
 }
