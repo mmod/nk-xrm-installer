@@ -60,7 +60,7 @@ Alternatively, you could just download a [tarball](https://github.com/mmod/nk-xr
 <br />
 #### Finishing the Installation
 
-When finished getting and/or installing nk-xrm, we need to install its dependencies. Before we do that we need to make sure we have some prerequisites in place for the data-tools to install correctly. Whether you wish to build or not build the data-tools, the [nk-mysql wiki](https://github.com/mmod/nodamysql/wiki) will guide you through ensuring you meet any and all requirements.  Once you've gone through the respective documentation, return here in order to complete installation and configuration.
+When finished getting and/or installing nk-xrm, we need to install its dependencies. Before we do that we need to make sure we have some prerequisites in place for the data-tools to install correctly. Whether you wish to build or not build the data-tools, the [nodakwaeri wiki @ Github](http://github.com/mmod/nodakwaeri/wiki/nk-mysql) will guide you through ensuring you meet any and all requirements.  Once you've gone through the respective documentation, return here in order to complete installation and configuration.
 
 What we need to do now, is to install the dependencies for nk-xrm.  Assuming we've ensured we have all prerequisites completed and verified:
 
