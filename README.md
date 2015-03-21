@@ -11,8 +11,8 @@ The Massively Modified, Massively Modern Solution for Node.js which enables the 
 ***NOTES***
 
 - *The package - available on npmjs.org - is an installer package; It fetches a source archive from Github.com and decompresses it to the application root - or the directory containing the ***node-modules*** directory. 
-- *To use the installer package you will need to have installed ***Python v2.7***. You will also need ***node-gyp*** installed in the following manner:* `npm install -g node-gyp`.
-- *Because the package on npmjs.org is an ***installer*** package - and ***not*** the source package; updates to the installer need not take place for each release of nk-xrm. Due to this, you will want to ensure that you check for new releases of nk-xrm from time to time so that you can update your installation when necessary.
+- *To use the installer package you will need to have installed **Python v2.7**. You will also need **node-gyp** installed in the following manner:* `npm install -g node-gyp`.
+- *Because the package on npmjs.org is an **installer** package - and **not** the source package; updates to the installer need not take place for each release of nk-xrm. Due to this, you will want to ensure that you check for new releases of nk-xrm from time to time so that you can update your installation when necessary.
 - *To update nk-xrm via the installer package to the latest source, you should ensure to backup - and will need to remove - any existing source in the chosen application root first. Then run the following:* `chosen_application_root/node_modules/nk-xrm/> node-gyp rebuild`.
 
 
