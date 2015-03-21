@@ -1,0 +1,37 @@
+{
+    "name": "nk-xrm",
+    "version": "0.1.5",
+    "description": "The Massively Modified, Massively Modern Solution for Node.js which enables the collection and customization of desired components via a native extension system in order to create an original (X)Cross-Relational Management System.",
+    "main": "index.js",
+    "scripts": 
+    {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": 
+    {
+        "type": "git",
+        "url": "git://github.com/mmod/nk-xrm.git"
+    },
+    "dependencies": 
+    {
+    },
+    "keywords": 
+    [
+        "MMod",
+        "Massively",
+        "Modified",
+        "Kwaeri",
+        "nodakwaeri",
+        "nk",
+        "nodamysql",
+        "nk-mysql",
+        "xrm"
+    ],
+    "author": "Richard B. Winters | Massively Modified, Inc. <info@mmogp.com> (http://www.mmogp.com)",
+    "license": "Apache V2.0",
+    "bugs":
+    {
+        "url": "https://github.com/mmod/nk-xrm/issues"
+    },
+    "homepage": "http://mmogp.com"
+}
